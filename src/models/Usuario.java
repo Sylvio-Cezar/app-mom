@@ -6,17 +6,14 @@ public class Usuario {
     private String senha;
     private InformacoesPessoais informacoesPessoais;
     private InformacoesFilho informacoesFilho;
-    private InstituicaoEnsino instituicaoEnsino;
 
-    public Usuario(String nome, String email, String senha, InformacoesPessoais informacoesPessoais, InformacoesFilho informacoesFilho, InstituicaoEnsino instituicaoEnsino) {
+    public Usuario(String nome, String email, String senha, InformacoesPessoais informacoesPessoais, InformacoesFilho informacoesFilho) {
         this.nome = nome;
         this.email = email;
         this.senha = senha;
         this.informacoesPessoais = informacoesPessoais;
         this.informacoesFilho = informacoesFilho;
     }
-
-    // Getters e setters
 
     public String getNome() {
         return nome;
@@ -56,13 +53,5 @@ public class Usuario {
 
     public void setInformacoesFilho(InformacoesFilho informacoesFilho) {
         this.informacoesFilho = informacoesFilho;
-    }
-
-    public InstituicaoEnsino getInstituicaoEnsino() {
-        return instituicaoEnsino;
-    }
-
-    public void setInstituicaoEnsino(InstituicaoEnsino instituicaoEnsino) {
-        this.instituicaoEnsino = instituicaoEnsino;
     }
 }

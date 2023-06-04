@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0207f410-adf9-4c19-a696-6733bf5c2407" name="Changes" comment="" />
+    <list default="true" id="0207f410-adf9-4c19-a696-6733bf5c2407" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/views/InterfacePrincipalView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Artigo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Atividade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Atividade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/InformacoesFilho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/InformacoesFilho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/InformacoesPessoais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/InformacoesPessoais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/InstituicaoEnsino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/InstituicaoEnsino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/UsuarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/UsuarioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/UsuarioServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/UsuarioServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QZMMsPWG334iGXEomY33KAyReS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +41,35 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/sylvi/Documents/Intellij/calculator"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sylvi\Documents\Intellij\App Mom\src\models" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Principal" />
+      <module name="App Mom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +80,16 @@
       <updated>1685556607590</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -3,11 +3,12 @@ package models;
 public class InstituicaoEnsino {
     private String nome;
     private String endereco;
-    // outros atributos relevantes
+    private String professorResponsavel;
 
-    public InstituicaoEnsino(String nome, String endereco) {
+    public InstituicaoEnsino(String nome, String endereco, String professorResponsavel) {
         this.nome = nome;
         this.endereco = endereco;
+        this.professorResponsavel = professorResponsavel;
     }
 
     public String getNome() {
@@ -26,4 +27,11 @@ public class InstituicaoEnsino {
         this.endereco = endereco;
     }
 
+    public String getProfessorResponsavel() {
+        return professorResponsavel;
+    }
+
+    public void setProfessorResponsavel(String professorResponsavel) {
+        this.professorResponsavel = professorResponsavel;
+    }
 }
